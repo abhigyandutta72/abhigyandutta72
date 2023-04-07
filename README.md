@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/abhigyandutta72/abhigyandutta72/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Abhigyan Dutta</h1>
 <h3 align="center">An artist and a developer from India</h3>
 <img align="right" alt="gaming gif" width="400" src="https://media.tenor.com/pw9ZsUdsEYgAAAAj/capoo-blue-cat.gif">
