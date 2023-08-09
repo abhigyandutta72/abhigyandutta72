@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhigyandutta01" target="blank"><img src="https://img.shields.io/twitter/follow/abhigyandutta01?logo=twitter&style=for-the-badge" alt="abhigyandutta01" /></a> </p>
 
-- 🔭 I’m currently working on **Osdag**
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **anything**
