@@ -1,7 +1,7 @@
 ![Header](https://github.com/abhigyandutta72/abhigyandutta72/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Abhigyan Dutta</h1>
 <h3 align="center">An artist and a developer from India</h3>
-<img align="right" alt="gaming gif" width="400" src="https://media.tenor.com/pw9ZsUdsEYgAAAAj/capoo-blue-cat.gif">
+<img align="right" alt="gaming gif" width="400" src="https://media.tenor.com/pw9ZsUdsEYgAAAAj/capoo-blue-cat.gif](https://gifdb.com/gif/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.html)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimegabyte&label=Profile%20views&color=0e75b6&style=flat" alt="abhimegabyte" /> </p>
 
