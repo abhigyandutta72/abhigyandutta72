@@ -1,13 +1,13 @@
 ![Header](https://github.com/abhigyandutta72/abhigyandutta72/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Abhigyan Dutta</h1>
-<h3 align="center">An artist and a developer from India</h3>
+<h3 align="center">An artist and a Data Analyst from India</h3>
 <img align="right" alt="gaming gif" width="400" src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimegabyte&label=Profile%20views&color=0e75b6&style=flat" alt="abhimegabyte" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhigyandutta01" target="blank"><img src="https://img.shields.io/twitter/follow/abhigyandutta01?logo=twitter&style=for-the-badge" alt="abhigyandutta01" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Tableau**
 
 - 💬 Ask me about **anything**
 
